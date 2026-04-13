@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Software | Em busca do 1º Estágio**
 📍 Nova Odessa, SP - Brasil
 
-Sou um desenvolvedor movido pelo grande sonho de construir uma carreira sólida em engenharia de software. Minha jornada com a tecnologia começou cedo: já sou formado como Técnico em Desenvolvimento de Sistemas e, atualmente, curso o primeiro semestre de Análise e Desenvolvimento de Sistemas.
+Sou um desenvolvedor movido pelo grande sonho de construir uma carreira sólida em engenharia de software. Minha jornada com a tecnologia começou cedo: já sou formado como Técnico em Desenvolvimento de Sistemas e, atualmente, curso graduação em Análise e Desenvolvimento de Sistemas.
 
 Sou uma pessoa extremamente dedicada e acredito que a teoria só ganha vida na prática. Por isso, invisto meu tempo construindo projetos reais, como sistemas completos. Encaro os desafios da programação com a mesma disciplina e constância que aplico nos meus treinos diários — sempre buscando evoluir e superar meus limites. Busco agora uma oportunidade de estágio onde eu possa transformar toda essa vontade de aprender em resultados reais para a equipe, trabalhando com o que eu realmente amo.
 
